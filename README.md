@@ -1,4 +1,4 @@
-# YwRobot-Arduino-LCM1602
+# Arduino-I2C-LCD
 LCD Displays with I2C/TWI Interface
 
 ## Prerequisites
